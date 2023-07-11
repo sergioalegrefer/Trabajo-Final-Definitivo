@@ -1,0 +1,45 @@
+
+h1 {
+  background-color: rgb(45, 9, 145);
+  color: floralwhite;
+  font-family: Helvetica, sans-serif;
+  width: 100%;
+  height: 80px;
+  text-align: center;
+  padding-top: 30px;
+}
+h2 {
+  font-size: 1.4em;
+  text-transform: uppercase;
+  font-family: Helvetica;
+  color: #000;
+  margin-top: 0;
+}
+h3 {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+h4 {
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+}
+div.text {
+  font-family: Helvetica;
+  padding: 5px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+h1, h2 {
+  font-family: Lato;
+}
+
+.metadato{
+  font-family: "Courier New";
+  border-style: dotted;
+  background-color:azure;
+  margin-left: 40px;
+  margin-right: 80px;
+}
+
+body {background-color:rgb(179, 206, 231)}
